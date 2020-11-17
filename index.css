@@ -126,22 +126,22 @@ top: -50px;
     border-radius: 5px;
     color: black;
     margin-top: 20px;
-    width: 50vh;
-    height: 7vh;
+    width: 30vh;
+    height: 5vh;
 }
 
 .form-inputs{
-    width: 50vh;
-    height: 7vh;
+    width: 30vh;
+    height: 5vh;
 }
 
 #sign_up_form{
     position: absolute;
-    top:20%;
+    top:10%;
     left: 10%;
     background: black;
-    width: 60vh;
-    height: 75vh;
+    width: 42vh;
+    height: 50vh;
     text-align: center;
     z-index: 100;
     
@@ -152,7 +152,8 @@ top: -50px;
     float: right; 
     font-size: 20px;
     cursor:pointer;
-    width: 11vh;
+    width: 13vh;
+    display: block;
 }
 
 form input{
@@ -422,17 +423,17 @@ a {
     padding-left: 70px;
 }
 #original_link{
-    width: 50%;
-    height: 7vh;
-    margin-left: 60px;
+    width: 55%;
+    height: 5vh;
+    margin-left: 30px;
     padding: 15px 20px ;
 }
 #shorten_link_btn{
     float: right;
-    height: 7vh;
-    width: 20%;
+    height: 5vh;
+    width: 25%;
     padding-top: 12px;
-    margin-right: 60px;
+    margin-right: 30px;
     font-size: 15px;
     border-radius: 10px;
 }
